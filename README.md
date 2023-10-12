@@ -8,7 +8,7 @@
 * ...
 
 #### Screenshots
-![JUnit test script](https://github.com/CrisBryann/math-util-mvn)
+![JUnit test script](https://github.com/CrisBryann/math-util-mvn/blob/master/screenshots/screenshot%20with%20junit.png)
 
 ##### Copyright &#169; 2023 CrisBryann | nguyenphuocthienan2018cm@gmail.com
 
